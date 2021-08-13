@@ -18,7 +18,7 @@ people:
     - title: linkedin
       url: https://bit.ly/jung-youjin
     - title: envelope
-      url: jungyoujin0527@gmail.com
+      url: mailto:jungyoujin0527@gmail.com
 
 - name: Mukhtar Kussaiynbekov
   pic: 2
@@ -34,9 +34,9 @@ people:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: globe-asia
+  - title: globe
     url: https://githubcampus.expert
-  - title: map-marker-alt
+  - title: users
     url: https://gce-korea.github.io
   - title: envelope
     url: githubcampusexperts.korea@gmail.com
