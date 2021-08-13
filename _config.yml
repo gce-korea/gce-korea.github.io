@@ -19,6 +19,8 @@ people:
       url: https://bit.ly/jung-youjin
     - title: envelope
       url: mailto:jungyoujin0527@gmail.com
+    - title: globe
+      url: https://youjinjung.me
 
 - name: Mukhtar Kussaiynbekov
   pic: 2
@@ -39,7 +41,7 @@ social:
   - title: globe
     url: https://gce-korea.github.io
   - title: envelope
-    url: githubcampusexperts.korea@gmail.com
+    url: mailto:githubcampusexperts.korea@gmail.com
   - title: github
     url: https://github.com/gce-korea
 
