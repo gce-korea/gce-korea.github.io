@@ -4,7 +4,7 @@ baseurl: /
 # Site settings
 title: GitHub Campus Experts Korea
 email: githubcampusexperts.korea@gmail.com
-description: "Hello! We are GitHub Campuse Experts from Korea."
+description: "Hello! We are GitHub Campus Experts from Korea."
 
 
 # Team names, titles and social links
@@ -17,7 +17,7 @@ people:
       url: https://github.com/jung-youjin
     - title: linkedin
       url: https://bit.ly/jung-youjin
-    - title: email
+    - title: envelope
       url: jungyoujin0527@gmail.com
 
 - name: Mukhtar Kussaiynbekov
@@ -34,10 +34,12 @@ people:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: github
+  - title: thumbtack
     url: https://githubcampus.expert
-  - title: github
+  - title: browser
     url: https://gce-korea.github.io
+  - title: envelope
+    url: githubcampusexperts.korea@gmail.com
   - title: github
     url: https://github.com/gce-korea
 
