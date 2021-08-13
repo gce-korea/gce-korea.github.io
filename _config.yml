@@ -34,9 +34,9 @@ people:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: globe
-    url: https://githubcampus.expert
   - title: users
+    url: https://githubcampus.expert
+  - title: globe
     url: https://gce-korea.github.io
   - title: envelope
     url: githubcampusexperts.korea@gmail.com
