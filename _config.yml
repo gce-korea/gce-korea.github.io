@@ -1,0 +1,50 @@
+url: https://gce-korea.github.io
+baseurl: /
+
+# Site settings
+title: GitHub Campus Experts Korea
+email: githubcampusexperts.korea@gmail.com
+description: "Hello! We are GitHub Campuse Experts from Korea."
+
+
+# Team names, titles and social links
+people:
+- name: YouJin Jung
+  pic: 1
+  position: GitHub Campus Expert @ Ewha Womans University
+  social:
+    - title: github
+      url: https://github.com/jung-youjin
+    - title: linkedin
+      url: https://bit.ly/jung-youjin
+    - title: email
+      url: jungyoujin0527@gmail.com
+
+- name: Mukhtar Kussaiynbekov
+  pic: 2
+  position: #
+  social:
+    - title: github
+      url: #
+    - title: linkedin
+      url: #
+    - title: #
+      url: #
+
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: github
+    url: https://githubcampus.expert
+  - title: github
+    url: https://gce-korea.github.io
+  - title: github
+    url: https://github.com/gce-korea
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: South Korea
+
+# Build settings
+markdown: kramdown
+permalink: pretty
