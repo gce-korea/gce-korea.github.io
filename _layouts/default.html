@@ -7,6 +7,14 @@
 
     <body id="page-top" class="index">
 
+    {% for lang in site.languages %}
+      {% if lang == site.default_lang %}
+        {{ lang }}
+      {% else %}
+        {{ lang }}
+      {% endif %}
+    {% endfor %}
+
     {% include header.html %}
     {% include introduction.html %}
     {% include posts_grid.html %}
