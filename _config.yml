@@ -11,9 +11,7 @@ description: "Hello! We are GitHub Campus Experts from Korea."
 people:
 - name: YouJin Jung
   pic: 1
-  position: |
-    GitHub Campus Expert
-    @ Ewha Womans University
+  position: "GitHub Campus Expert \n @ Ewha Womans University"
   social:
     - title: map-pin
       url: https://githubcampus.expert/jung-youjin
@@ -28,9 +26,7 @@ people:
 
 - name: Mukhtar Kussaiynbekov
   pic: 2
-  position: |
-    GitHub Campus Expert 
-    @ KAIST
+  position: "GitHub Campus Expert \n @ KAIST"
   social:
     - title: map-pin
       url: https://githubcampus.expert/mukhtarkussaiynbekov
