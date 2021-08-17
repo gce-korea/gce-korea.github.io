@@ -11,8 +11,12 @@ description: "Hello! We are GitHub Campus Experts from Korea."
 people:
 - name: YouJin Jung
   pic: 1
-  position: GitHub Campus Expert @ Ewha Womans University
+  position: >
+    GitHub Campus Expert
+    @ Ewha Womans University
   social:
+    - title: map-pin
+      url: https://githubcampus.expert/jung-youjin
     - title: github
       url: https://github.com/jung-youjin
     - title: linkedin
