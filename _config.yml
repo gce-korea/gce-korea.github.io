@@ -12,7 +12,7 @@ people:
 - name: YouJin Jung
   pic: 1
   position: >
-    GitHub Campus Expert
+    GitHub Campus Expert \n
     @ Ewha Womans University
   social:
     - title: map-pin
@@ -29,14 +29,14 @@ people:
 - name: Mukhtar Kussaiynbekov
   pic: 2
   position: >
-    GitHub Campus Expert
+    GitHub Campus Expert \n
     @ KAIST
   social:
+    - title: map-pin
+    url: https://githubcampus.expert/mukhtarkussaiynbekov
     - title: github
       url: https://github.com/mukhtarkussaiynbekov
     - title: linkedin
-      url: #
-    - title: #
       url: #
 
 
