@@ -10,7 +10,7 @@ alt: image-alt
 project-date: August 2021
 info: 2021/08/09 ~ 2021/08/29
 category: GCE Applications Tips KOR
-description: >
+description: |
     Check YouJin's blog post out!✨ => https://youjinjung.me
 
 ---
