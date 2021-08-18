@@ -12,7 +12,7 @@
 
 **연락 주세요! 💌**
 
-<a href="mailto:githubcampusexpertskorea@gmail.com?"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=(mailto:mailto:githubcampusexpertskorea@gmail.com?subject=Hi%GCE-Korea,%reaching%out%to%you%from%Github!)"/></a>
+<a href="mailto:githubcampusexperts.korea@gmail.com?"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=(mailto:mailto:githubcampusexpertskorea@gmail.com?subject=Hi%GCE-Korea,%reaching%out%to%you%from%Github!)"/></a>
 <a href="https://gce-korea.github.io"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&label=Website"/></a>
 
 ---
@@ -26,7 +26,7 @@ Warm welcome to [GitHub Campus Expert Korea Website](https://gce-korea.github.io
 
 **Contact us! 💌**
 
-<a href="mailto:githubcampusexpertskorea@gmail.com?"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=(mailto:mailto:githubcampusexpertskorea@gmail.com?subject=Hi%GCE-Korea,%reaching%out%to%you%from%Github!)"></a>
+<a href="mailto:githubcampusexperts.korea@gmail.com?"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=(mailto:mailto:githubcampusexpertskorea@gmail.com?subject=Hi%GCE-Korea,%reaching%out%to%you%from%Github!)"></a>
 <a href="https://gce-korea.github.io"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&label=Website"/></a>
 
 ---
