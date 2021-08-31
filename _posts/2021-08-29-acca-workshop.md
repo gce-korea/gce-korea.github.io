@@ -10,6 +10,7 @@ alt: image-alt
 project-date: August 2021
 info: 2021/08/29 1PM - 6PM
 category: workshops
-description: "GitHub Campus Expert X Microsoft Learn Student Ambassador 2021 연합 워크샵 "Anyone can code. Anyone." - Python + Git 기초 "
+description: |
+    GitHub Campus Expert X Microsoft Learn Student Ambassador 2021 연합 워크샵 'Anyone can code. Anyone.' - Python + Git 기초
 
 ---
