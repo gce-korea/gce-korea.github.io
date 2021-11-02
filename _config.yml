@@ -34,6 +34,17 @@ people:
       url: https://github.com/mukhtarkussaiynbekov
     - title: linkedin
       url: #
+
+- name: Seohyun Kim
+  pic: 2
+  position: "GitHub Campus Expert \n @ Ewha Womans University"
+  social:
+    - title: map-pin
+      url: #
+    - title: github
+      url: https://github.com/kshjessica
+    - title: linkedin
+      url: https://www.linkedin.com/in/seohyun-kim-ab9715223/
       
  - name: SunGyu Kim
     pic: 5
